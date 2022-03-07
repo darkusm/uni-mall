@@ -15,10 +15,11 @@ export default {
 <style scoped lang="less">
 .nav-bar {
   display: flex;
-  height: 3rem;
-  font-size: 2.8rem;
+  height: 40px;
+  font-size: 33px;
   text-align: center;
   box-shadow: 0 1px 1px rgba(100, 100, 100, 0.1);
+  border-top: 10px;
   .left,
   .right {
     width: 60px;
